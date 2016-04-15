@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>lat</key>
+		<real>44.150223</real>
+		<key>long</key>
+		<real>9.644583000000001</real>
+		<key>no</key>
+		<integer>1</integer>
+		<key>title</key>
+		<string>Via Padre Semeria,49</string>
+	</dict>
+	<dict>
+		<key>lat</key>
+		<real>44.151068</real>
+		<key>long</key>
+		<real>9.656063</real>
+		<key>no</key>
+		<integer>2</integer>
+		<key>title</key>
+		<string>Monterosso al Mare SP</string>
+	</dict>
+	<dict>
+		<key>lat</key>
+		<real>44.149187</real>
+		<key>long</key>
+		<real>9.660276</real>
+		<key>no</key>
+		<integer>3</integer>
+		<key>title</key>
+		<string>Strada Provinciale 38</string>
+	</dict>
+	<dict>
+		<key>lat</key>
+		<real>44.144323</real>
+		<key>long</key>
+		<real>9.673088</real>
+		<key>no</key>
+		<integer>4</integer>
+		<key>title</key>
+		<string>Vernazza</string>
+	</dict>
+	<dict>
+		<key>lat</key>
+		<real>44.140283</real>
+		<key>long</key>
+		<real>9.683336000000001</real>
+		<key>no</key>
+		<integer>5</integer>
+		<key>title</key>
+		<string>Strada Provinciale 51</string>
+	</dict>
+	<dict>
+		<key>lat</key>
+		<real>44.134417</real>
+		<key>long</key>
+		<real>9.684851999999999</real>
+		<key>no</key>
+		<integer>6</integer>
+		<key>title</key>
+		<string>Via M</string>
+	</dict>
+	<dict>
+		<key>lat</key>
+		<real>44.132864</real>
+		<key>long</key>
+		<real>9.69131</real>
+		<key>no</key>
+		<integer>7</integer>
+		<key>title</key>
+		<string>Vernazza</string>
+	</dict>
+	<dict>
+		<key>lat</key>
+		<real>44.12916</real>
+		<key>long</key>
+		<real>9.692501</real>
+		<key>no</key>
+		<integer>8</integer>
+		<key>title</key>
+		<string>Vernazza</string>
+	</dict>
+	<dict>
+		<key>lat</key>
+		<real>44.130429</real>
+		<key>long</key>
+		<real>9.705673000000001</real>
+		<key>no</key>
+		<integer>9</integer>
+		<key>title</key>
+		<string>Vernazza</string>
+	</dict>
+	<dict>
+		<key>lat</key>
+		<real>44.120176</real>
+		<key>long</key>
+		<real>9.716106999999999</real>
+		<key>no</key>
+		<integer>10</integer>
+		<key>title</key>
+		<string>Via Stazione,27</string>
+	</dict>
+</array>
+</plist>
